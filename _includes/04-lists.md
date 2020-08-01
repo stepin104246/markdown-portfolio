@@ -1,4 +1,4 @@
-Draw
-Food
-Games
-chess
+- Draw
+- Food
+- Games
+* chess
